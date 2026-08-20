@@ -33,7 +33,7 @@ build/
 .vscode/
 
 ### Flyway ###
-src/main/resources/db/migration/
+CRUD/src/main/resources/db/migration/
 
 ### SQLite ###
 *.db
